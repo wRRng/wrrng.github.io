@@ -1,0 +1,11 @@
+sono una scuola privata e necessito di un registro elettronico
+gestire:
+-tre classi
+-alunni con anagrafiche (nome cognome datanascita classe)
+-necessità di dire in che classe è
+
+sia prof che segreteria:
+gestisce entrate la mattina (tabella presenze): possibilità di vedere presenze da ricerca data;
+il prof mette anche i voti
+vista con voto + alto e voto + basso e conteggio dei numeri voti
+segreteria: aggiunge ed elimina gli alunni e vede (non gestisce) le presenze
